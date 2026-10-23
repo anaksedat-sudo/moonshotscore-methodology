@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use or reference this methodology, please cite it as below."
+title: "MoonshotScore Methodology"
+type: dataset
+authors:
+  - name: "Stock Expert AI"
+    website: "https://www.stockexpertai.com"
+  - family-names: "Anak"
+    given-names: "Sedat"
+    affiliation: "Stock Expert AI"
+version: "2.0"
+date-released: "2026-10-24"
+license: CC-BY-4.0
+url: "https://www.stockexpertai.com/methodology"
+abstract: "Public specification of MoonshotScore V2, a 0-100 sector-relative rating of US-listed stocks built from five pillars (Business Quality, Financial Safety, Valuation, Growth Durability, Momentum), with bands, data sources, limitations and a one-month score-band check."
+keywords:
+  - stocks
+  - equity research
+  - factor scoring
+  - fundamentals
+  - methodology
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23274464"
+    description: "MoonshotScore snapshot of 3,638 US-listed stocks (26 Sep 2026) and a one-month score-band test"
+  - type: doi
+    value: "10.5281/zenodo.22728643"
+    description: "Aggregate frequencies and coverage counts for a historical MoonshotScore snapshot (29 August 2026)"
+preferred-citation:
+  type: dataset
+  title: "MoonshotScore snapshot of 3,638 US-listed stocks (26 Sep 2026) and a one-month score-band test"
+  authors:
+    - family-names: "Anak"
+      given-names: "Sedat"
+  publisher:
+    name: "Zenodo"
+  version: "1.0"
+  doi: "10.5281/zenodo.23274464"
+  date-released: "2026-10-10"
